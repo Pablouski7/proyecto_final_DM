@@ -5,3 +5,7 @@ seaborn
 jupyter
 pandas
 numpy
+lightgbm
+xgboost
+catboost
+shap
